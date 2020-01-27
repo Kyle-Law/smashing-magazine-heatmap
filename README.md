@@ -2,11 +2,14 @@
 
 > Heatmap of Smashing Magazine
 
-![screenshot](./app_screenshot.png)
+![Screenshot_2020-01-27 Document](https://user-images.githubusercontent.com/55361440/73184167-070a8b80-4142-11ea-8387-897a96947103.png)
 
 ## Descriptions
-- NavBar created with `nav`
-- 
+- NavBar created with `<nav>` tag with multiple links inside it.
+
+- Main feature of the site is to use `<article>` tag.
+
+- Have to use grid or flexbox.
 
 ## Built With
 
@@ -25,11 +28,11 @@
 - Twitter: [@twitterhandle](https://twitter.com/ZhunKhing)
 - Linkedin: [linkedin](https://www.linkedin.com/in/kyle-lawzhunkhing/)
 
-👤 **Author2**
+👤 **Jaspreet Singh**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@jaspreet-singh-sahota](https://github.com/jaspreet-singh-sahota)
+- Twitter: [@jaspree88033250]https://twitter.com/jaspree88033250
+- Linkedin: [jaspreet Singh]https://www.linkedin.com/in/jaspreet-singh-a28286146/
 
 ## Show your support
 
