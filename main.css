@@ -14,3 +14,15 @@ html {
     font-size: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+nav {
+    display: grid;
+    grid-template-columns: 300px repeat(6,1fr);
+}
+
+nav > a {
+    background-color: red;
+    color: white;
+    height: 200px;
+    border: 1px solid white;
+}
