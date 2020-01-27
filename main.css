@@ -103,3 +103,24 @@ main > article:nth-child(5) {
 .design-system {
     height: 400px;
 }
+
+#guides {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 600px 600px;
+   
+
+}
+
+.guides {
+    border: 1px solid white;
+    background-color: black;
+}
+
+.guides:nth-child(5) {
+    grid-column: 2/4;
+    height: 500px;
+    border-radius: 20px;
+    background-color: #888888;
+    margin-right: 60px;
+}
