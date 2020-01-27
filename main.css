@@ -21,21 +21,24 @@ nav {
 }
 
 nav > a {
-    background-color: #666666;
-    color: white;
+    background-color: #999999;
     height: 200px;
     border: 1px solid white;
 }
 
 nav > a:nth-child(1) {
-    background-color: #333333;
+    background-color: #888888;
 }
 
 #profile {
     display: grid;
     grid-template-columns: repeat(2,1fr);
     grid-template-rows: 700px 500px;
-    background-color: #888888;
+    background-color: #555555;
+}
+
+.bgcolor-666 {
+    background-color: #666666;
 }
 
 #profile > a {
@@ -45,8 +48,7 @@ nav > a:nth-child(1) {
 .about {
     height: 600px;
     width: 100%;
-    background-color: #555555;
-    color: white;
+    background-color: #333333;
 }
 
 main {
@@ -59,14 +61,21 @@ main {
 }
 
 main > article {
-    border: 2px solid red;
-    background-color: #888888;
+    border: 2px solid white;
+    background-color: #777777;
 }
 
 main > article:nth-child(5) {
     border-radius: 20px;
-    background-color: #666666;
-    color: white;
+    background-color: #444444;
+}
+
+.bg555 {
+    background-color: #555555;
+}
+
+.bg888 {
+    background-color: #888888;
 }
 
 .new-article {
@@ -82,7 +91,7 @@ main > article:nth-child(5) {
 
 .one {
     height: 200px;
-    background-color: #888888;
+    background-color: #666666;
     width: 100%;
     border-radius: 0;
     display: grid;
@@ -102,25 +111,30 @@ main > article:nth-child(5) {
 
 .design-system {
     height: 400px;
+    background-color: #555555;
 }
 
 #guides {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 600px 600px;
-   
-
 }
 
 .guides {
     border: 1px solid white;
-    background-color: black;
+    background-color: #444444;
 }
 
 .guides:nth-child(5) {
     grid-column: 2/4;
     height: 500px;
     border-radius: 20px;
-    background-color: #888888;
+    background-color: #333333;
     margin-right: 60px;
+}
+
+footer {
+    height: 700px;
+    background-color: #111111;
+    
 }
