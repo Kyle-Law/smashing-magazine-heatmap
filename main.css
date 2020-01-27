@@ -68,3 +68,19 @@ main > article:nth-child(5) {
     background-color: #666666;
     color: white;
 }
+
+.new-article {
+    height: 600px;
+    width: 95%;
+    background-color: #444444;
+    display: flex;
+    align-content: center;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+#one {
+    height: 200px;
+    background-color: #888888;
+}
