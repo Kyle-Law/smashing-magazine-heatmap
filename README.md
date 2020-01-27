@@ -1,51 +1,29 @@
-# Project Name
+# Smashing Magazine Heatmap
 
-> One paragraph statement about the project.
+> Heatmap of Smashing Magazine
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+## Descriptions
+- NavBar created with `nav`
+- 
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML, CSS
+- VSCode
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/smashing-magazine-heatmap/936875f835dfccfaff1f3566d4f1fa14db80a69d/index.html)
 
 ## Authors
 
-👤 **Author1**
+👤 **Kyle Law**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@Kyle-Law](https://github.com/Kyle-Law)
+- Twitter: [@twitterhandle](https://twitter.com/ZhunKhing)
+- Linkedin: [linkedin](https://www.linkedin.com/in/kyle-lawzhunkhing/)
 
 👤 **Author2**
 
@@ -53,22 +31,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+- Microverse and TSEs
+- The Odin Project
