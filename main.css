@@ -80,7 +80,26 @@ main > article:nth-child(5) {
     border-radius: 25px;
 }
 
-#one {
+.one {
     height: 200px;
     background-color: #888888;
+    width: 100%;
+    border-radius: 0;
+    display: grid;
+    place-items: center;
+    border: 2px solid white;
+}
+
+.people {
+    display: grid;
+    grid: repeat(3, 300px) / repeat(2, 1fr);
+}
+
+.person {
+    background-color: #888888;
+    border: 2px dashed white;
+}
+
+.design-system {
+    height: 400px;
 }
