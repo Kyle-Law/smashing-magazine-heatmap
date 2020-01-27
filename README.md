@@ -25,8 +25,8 @@
 👤 **Kyle Law**
 
 - Github: [@Kyle-Law](https://github.com/Kyle-Law)
-- Twitter: [@twitterhandle](https://twitter.com/ZhunKhing)
-- Linkedin: [linkedin](https://www.linkedin.com/in/kyle-lawzhunkhing/)
+- Twitter: [@Kyle-Law](https://twitter.com/ZhunKhing)
+- Linkedin: [Kyle law](https://www.linkedin.com/in/kyle-lawzhunkhing/)
 
 👤 **Jaspreet Singh**
 
