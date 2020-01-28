@@ -1,6 +1,6 @@
 # Smashing Magazine Heatmap
 
-> Heatmap of Smashing Magazine
+> Heatmap of [Smashing Magazine](https://www.smashingmagazine.com/)
 
 ![ScreenShot](https://user-images.githubusercontent.com/55923773/73240145-096bf480-41d9-11ea-888a-48feded325f3.png)
 
@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/smashing-magazine-heatmap/936875f835dfccfaff1f3566d4f1fa14db80a69d/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/smashing-magazine-heatmap/a4216d823db91a5e384ce5d0c22122aeb2f45807/index.html)
 
 ## Authors
 
@@ -31,8 +31,8 @@
 👤 **Jaspreet Singh**
 
 - Github: [@jaspreet-singh-sahota](https://github.com/jaspreet-singh-sahota)
-- Twitter: [@jaspree88033250]https://twitter.com/jaspree88033250
-- Linkedin: [jaspreet Singh]https://www.linkedin.com/in/jaspreet-singh-a28286146/
+- Twitter: [@jaspree88033250](https://twitter.com/jaspree88033250)
+- Linkedin: [jaspreet Singh](https://www.linkedin.com/in/jaspreet-singh-a28286146/)
 
 ## Show your support
 
