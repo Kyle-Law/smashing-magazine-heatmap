@@ -41,8 +41,8 @@ nav > a:nth-child(1) {
   background-color: #666;
 }
 
-#profile > a {
-  border: 1px solid black;
+#profile > article {
+  border: 1px solid white;
 }
 
 .about {
@@ -82,7 +82,7 @@ main > article:nth-child(5) {
   height: 600px;
   width: 95%;
   background-color: #444;
-  display: flex;
+  /* display: flex; */
   align-content: center;
   margin: 0 auto;
   border: 1px solid black;
@@ -136,4 +136,18 @@ main > article:nth-child(5) {
 footer {
   height: 700px;
   background-color: #111;
+  display: grid;
+  place-items: center;
+}
+
+article {
+  display: grid;
+  place-items: center;
+  color: white;
+}
+
+a {
+  color: white;
+  display: grid;
+  place-items: center;
 }

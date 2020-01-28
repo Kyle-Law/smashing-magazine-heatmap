@@ -2,7 +2,7 @@
 
 > Heatmap of Smashing Magazine
 
-![Screenshot_2020-01-27 Document](https://user-images.githubusercontent.com/55361440/73184167-070a8b80-4142-11ea-8387-897a96947103.png)
+![ScreenShot](https://user-images.githubusercontent.com/55923773/73240145-096bf480-41d9-11ea-888a-48feded325f3.png)
 
 ## Descriptions
 - NavBar created with `<nav>` tag with multiple links inside it.
